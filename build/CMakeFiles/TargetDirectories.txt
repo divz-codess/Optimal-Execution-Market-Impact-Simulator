@@ -1,0 +1,3 @@
+C:/Msft/New folder/build/CMakeFiles/almgren_chriss.dir
+C:/Msft/New folder/build/CMakeFiles/edit_cache.dir
+C:/Msft/New folder/build/CMakeFiles/rebuild_cache.dir
